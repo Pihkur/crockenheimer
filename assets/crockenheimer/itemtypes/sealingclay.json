@@ -1,0 +1,77 @@
+{
+    "code": "sealingclay",
+    "maxstacksize": 128,
+    "creativeinventory": {
+        "general": [
+            "*"
+        ]
+    },
+    "texture": {
+        "base": "item/sealingclay"
+    },
+    "shape": {
+        "base": "item/sealingclay"
+    },
+    "guiTransform": {
+        "translation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "rotation": {
+            "x": 154,
+            "y": 20,
+            "z": -5
+        },
+        "origin": {
+            "x": 0.48,
+            "y": 0.06,
+            "z": 0.5
+        },
+        "scale": 3.55
+    },
+    "fpHandTransform": {
+        "translation": {
+            "x": 0.0468,
+            "y": -0.15,
+            "z": 0
+        },
+        "rotation": {
+            "x": 26,
+            "y": 135,
+            "z": -12
+        },
+        "scale": 1.29
+    },
+    "tpHandTransform": {
+        "translation": {
+            "x": -1.1,
+            "y": -1.2,
+            "z": -1.5
+        },
+        "rotation": {
+            "x": 90,
+            "y": -92,
+            "z": -180
+        },
+        "scale": 0.43
+    },
+    "groundTransform": {
+        "translation": {
+            "x": 0,
+            "y": 0.17,
+            "z": 0
+        },
+        "rotation": {
+            "x": -1,
+            "y": 0,
+            "z": 0
+        },
+        "origin": {
+            "x": 0.5,
+            "y": 0.33,
+            "z": 0.5299
+        },
+        "scale": 4
+    }
+}

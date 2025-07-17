@@ -1,0 +1,65 @@
+[
+    {
+        "ingredientPattern": "C,S",
+        "ingredients": {
+            "C": {
+                "type": "block",
+                "code": "game:crock-burned-east",
+                "name": "material"
+            },
+            "S": {
+                "type": "item",
+                "code": "crockenheimer:sealingclay"
+            }
+        },
+        "width": 1,
+        "height": 2,
+        "shapeless": true,
+        "output": {
+            "type": "block",
+            "code": "game:crock-burned-east"
+        }
+    },
+    {
+        "ingredientPattern": "C,S",
+        "ingredients": {
+            "C": {
+                "type": "block",
+                "code": "game:crock-burned-east",
+                "name": "material"
+            },
+            "S": {
+                "type": "item",
+                "code": "crockenheimer:sealingpitch"
+            }
+        },
+        "width": 1,
+        "height": 2,
+        "shapeless": true,
+        "output": {
+            "type": "block",
+            "code": "game:crock-burned-east"
+        }
+    },
+    {
+        "ingredientPattern": "C,S",
+        "ingredients": {
+            "C": {
+                "type": "block",
+                "code": "game:crock-burned-east",
+                "name": "material"
+            },
+            "S": {
+                "type": "item",
+                "code": "game:resin"
+            }
+        },
+        "width": 1,
+        "height": 2,
+        "shapeless": true,
+        "output": {
+            "type": "block",
+            "code": "game:crock-burned-east"
+        }
+    }
+]
